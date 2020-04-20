@@ -3,7 +3,7 @@ Find the optimal classes and teachers when scheduling for next semester.
 
 
 ## How to Use
-* Must be Windows *
+*Must be Windows*
 * Go to Options
 * Open Trust Center Settings
 * Enable ALL Macros
